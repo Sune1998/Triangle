@@ -16,4 +16,4 @@ I forhold til at optimere koden ville man måske kunne kigge på hvor hvidt at i
 
 
 I forhold til fejl så kan burde der måske tilføjes en exit clause til while løkken så denne ikke bare er uendelig.
-Ud over dette smier Rider også en advarsel omkring at Udregner metoden ikke returnere noget, dette virker dog som en fejl med Rider og ikke en PEBCAC fejl
+
